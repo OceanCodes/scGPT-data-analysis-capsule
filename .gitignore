@@ -1,3 +1,9 @@
-/data/
-
+/data/*
+*.parquet
+*.html
+*. html
+*.joblib
+*.pkl
 .vscode
+code/colon_umap_by_disease.parquet
+code/core.25873
