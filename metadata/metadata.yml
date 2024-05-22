@@ -1,2 +1,5 @@
 metadata_version: 1
 name: scGPT data analysis capsule
+description: scGPT data analysis capsule
+authors:
+- name: scGPT
